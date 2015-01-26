@@ -90,7 +90,7 @@
       <p class="intro">The Cold Turkey Group is dedicated to helping your small business by using cutting edge technology to find the right customers for you at a fraction of the cost.</p>
       <p>
         <a class="btn btn-cta btn-cta-primary fd" style="margin-right:50px" href="https://tryfrontdesk.com"><img src="/assets/img/frontdesk-logo.png"> FrontDesk</a>
-        <a class="btn btn-cta btn-cta-primary platform" href="https://platform.marketing"><img src="/assets/img/platform-logo.png"> Platform</a>
+        <a class="btn btn-cta btn-cta-primary platform" href="http://platform.marketing"><img src="/assets/img/platform-logo.png"> Platform</a>
       </p>
     </div><!--//container-->
   </section><!--//promo-->
