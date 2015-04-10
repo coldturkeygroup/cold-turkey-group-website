@@ -53,7 +53,7 @@
       <p>
         <a class="btn btn-cta btn-cta-primary fd" style="margin-right:50px" href="https://tryfrontdesk.com"><img src="/assets/img/frontdesk-logo.png">
           FrontDesk</a>
-        <a class="btn btn-cta btn-cta-primary platform" href="http://platform.marketing"><img src="/assets/img/platform-logo.png">
+        <a class="btn btn-cta btn-cta-primary platform" href="http://platformrealestate.com/get-started/"><img src="/assets/img/platform-logo.png">
           Platform</a>
       </p>
     </div>
