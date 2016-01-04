@@ -27,7 +27,7 @@
 	<meta name="msapplication-TileImage" content="assets/favicons/mstile-144x144.png">
 
 	<!-- Global CSS -->
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	<link rel="stylesheet" href="/assets/css/flexslider.css">
 	<link id="theme-style" rel="stylesheet" href="/assets/css/theme.css">
 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700,700italic,900,900italic,300italic,300' rel='stylesheet' type='text/css'>
@@ -63,7 +63,7 @@
 							<i class="fa fa-angle-down"></i></a>
 						<ul class="dropdown-menu">
 							<li><a target="_blank" href="https://tryfrontdesk.com/">FrontDesk</a></li>
-							<li><a target="_blank" href="http://platform.marketing/">Platform</a></li>
+							<li><a target="_blank" href="https://platformrealestate.com/">Platform</a></li>
 						</ul>
 					</li>
 					<li class="nav-item"><a href="mailto:support@coldturkeygroup.com">Contact Us</a></li>
@@ -92,14 +92,14 @@
 		<p>
 			<a class="btn btn-cta btn-cta-primary fd" style="margin-right:50px" href="https://tryfrontdesk.com"><img src="/assets/img/frontdesk-logo.png">
 				FrontDesk</a>
-			<a class="btn btn-cta btn-cta-primary platform" href="http://platformrealestate.com/get-started/"><img src="/assets/img/platform-logo.png">
+			<a class="btn btn-cta btn-cta-primary platform" href="https://platformrealestate.com"><img src="/assets/img/platform-logo.png">
 				Platform</a>
 		</p>
 	</div>
 </section>
 <!-- Javascript -->
-<script type="text/javascript" src="//code.jquery.com/jquery-1.11.2.min.js"></script>
-<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/assets/js/flexslider.js"></script>
 <script type="text/javascript" src="/assets/js/main.js"></script>
 </body>
