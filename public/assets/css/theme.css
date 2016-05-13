@@ -515,12 +515,12 @@ input[type="button"] {
 }
 
 .promo .btn-cta.fd {
-    background: #2185c5;
+    background: #29ace2;
 }
 
 .promo .btn-cta.fd:hover {
     color: #FFF;
-    background: #459ce7;
+    background: #29ace2;
 }
 
 .promo .btn-cta.platform {

@@ -62,8 +62,7 @@
                         <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#">Products
                             <i class="fa fa-angle-down"></i></a>
                         <ul class="dropdown-menu">
-                            <li><a target="_blank" href="https://tryfrontdesk.com/">FrontDesk</a></li>
-                            <li><a target="_blank" href="https://platformrealestate.com/">Platform</a></li>
+                            <li><a target="_blank" href="https://platformcrm.com/">Platform</a></li>
                         </ul>
                     </li>
                     <li class="nav-item"><a href="mailto:support@coldturkeygroup.com">Contact Us</a></li>
@@ -90,11 +89,8 @@
             technology to find the right customers for you at a fraction of the cost.</p>
 
         <div class="row">
-            <div class="col-xs-12 col-sm-4 col-sm-offset-2 col-lg-3 col-lg-offset-3">
-                <a class="btn btn-block btn-cta btn-cta-primary fd" style="margin-bottom:20px" href="https://tryfrontdesk.com"><img src="/assets/img/frontdesk-logo.png"> FrontDesk</a>
-            </div>
-            <div class="col-xs-12 col-sm-4 col-lg-3">
-                <a class="btn btn-block btn-cta btn-cta-primary platform" href="https://platformrealestate.com"><img src="/assets/img/platform-logo.png"> Platform</a>
+            <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3">
+                <a class="btn btn-block btn-cta btn-cta-primary fd" style="margin-bottom:20px" href="https://platformcrm.com"><img src="https://cdn.platformcrm.com/assets/logo/icon-white.png"> Platform</a>
             </div>
         </div>
     </div>
